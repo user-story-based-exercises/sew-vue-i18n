@@ -1,7 +1,7 @@
 SEW | i18n for vue.js Project
 
 ## User Story 1
-** As an international company I want my application to be available in German and English.
+*As an international company I want my application to be available in German and English.*
 
 ### Acceptance Criteria
 - The application is available in German and English.
